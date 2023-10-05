@@ -12,10 +12,10 @@ Step 1: Install the necessary Python modules:
 
 Step 2: Create a bot on developer.webex.com:
 - Visit developer.webex.com and create a bot.
-- Add the bot to Webex, specifically in a 1-1 direct message.
+- Add the bot to Webex.
 - Then, incorporate the bot's token into the "app.py" file.
 
 Step 3: Configure OpenAI API Key:
-- Go to OpenAI's website and add your API Key to the "gpt.py" file.
+- Get  your API Key from OpenAI's website and add to the "gpt.py" file.
 
 Step 4: Run the server (app.py)
